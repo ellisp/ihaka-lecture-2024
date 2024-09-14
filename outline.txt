@@ -1,0 +1,68 @@
+
+who i am now and some of the things I've done in the past
+
+Slide each on these
+
+Evaluation - learnt statistics because I didn't like losing arguments to economists. Started using S+.
+
+MBIE. Booted up R, bought a book on SQL
+
+Stats NZ. Reviewed usage of the IDI
+
+Nous. Saw over and over again the fundamental need for just better data management and code management 
+
+SPC microdata, survey analysis, PDH dot stat, IMTS
+
+Story 1 story from Nous, maybe the drought database. but new appreciation for how relatively advanced statistics can be integrated into this, for example use of GAMs to project socio-economic data onto a grid of points for matching with physical weather data.
+
+Lesson #1 databases are cool
+Lesson #2 R can do nearly anything
+Lesson #3 there is space for statistical modelling in surprising places including DW ETL
+
+Story 2 MBIE story about wanting to teach statistics and dataviz, then choosing statistical software and having to learn that, then realising we had to learn about databases, then that mostly the work was about data manipulation and then finally about processes. picture of the Excel nightmare and story of the Sectors Report
+
+
+Lesson #4 Git
+Lesson #5 data manipulation
+Lesson #6 processes, QC, team work
+Lesson #7 change - including losing some people, bringing in specialists, training others, using underemployed academics
+
+the lone genius spreadsheet guy - very common in the public sector, usually self-taught
+but we don't want them to be the lone genius R guy in fact that's even more dangerous
+fundamental similarity of the lone spreadsheet guy and the lone R writing guy
+
+Story 3 - should be more from the pacific but what is a good one to use? Maybe the 2050 dashboard? - no not enough R. So use Vanuatu instead.
+
+some concepts need to make sure introduce
+
+Joel's 12 point test
+
+The four types of analytics teams
+
+version control why so important
+
+databases why so important
+
+doesn't matter what your first statistical language is, your second has to be SQL
+
+analytics team sitting in the mid point between IT and the business and having particular skills because of this
+
+why training needs to be done by team members themselves and 
+
+training is like the All Blacks training, not just go on a short course to learn R (but this latter is the normal thinking about training in the public sector)
+
+Lesson #8 You don't need to use R for everything
+R users tend to have a weakness of trying to do everything in R, some things just better or more appropriate in SQL, Python, JavaScript
+SQL - use the database tools themselves, query optimisation, be closer to the data and in SSMS or similar
+Python - many web tasks, imagery tasks, and just plain utility tasks (like printing PowerPoints into PDFs
+JavaScript - Shiny is cool and incredibly fast and easy to set up an app but once you start doing more complicated things you start using CSS, HTML and JavaScript rather than the wrappers around it
+C++
+Stan - yes there are R libraries that wrap around it
+
+
+Lesson # - work with your IT department not against it
+package R and Git up properly and get them integrated into the support desk.
+
+Lesson # - you need an xxxstyle R package for your organisation with palettes, ggplot2 theme, logo, fonts, etc
+Work with your corporate comms / design standards team not against it
+

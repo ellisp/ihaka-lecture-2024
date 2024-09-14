@@ -1,0 +1,63 @@
+---
+title: "Statistical capability building in a government department - the New Zealand Ministry of Business, Innovation and Employment"
+output: 
+  flexdashboard::flex_dashboard:
+    orientation: rows
+    vertical_layout: scroll
+    mathjax: null
+    theme: flatly
+---
+
+```{r setup, include=FALSE}
+library(knitr)
+library(flexdashboard)
+```
+
+CTQ Row
+-----------------------------------------------------------------------
+
+### 
+
+#### Context
+
+Demand for high quality statistical skills in the workplace exceeds supply and it would be great if we knew how to grow the actual capability that's going to be useful in workplaces.
+
+#### Trigger
+
+This is a conference about teaching statistics with many people interested in case studies and approaches.
+
+#### Question
+
+What lessons are there for others from MBIE's experience in building statistical capability?
+
+<div id="answer" class="alert alert-info">
+MBIE's statistical capability program has been highly successful and some of the key approaches (most important of which was total management commitment to ongoing continuous destructive improvement) might be adaptable for other environments; but it needs to be appreciated that "statistical" capability building goes far beyond modelling and inference methods to areas of workflow management, tools and general data skills
+</div>
+
+
+Storyline Row
+-----------------------------------------------------------------------
+
+### Building statistics and data science capability is more important than ever, including at MBIE
+
+* lots of needs for data skills
+* tourism data improvement program
+* frequently updated data-intensive economic reporting
+
+### To do this well, we had to expand our horizon well beyond "statistics"
+
+* While training started with statistics, we soon realised that more important (in sequence) were tools, data storage, data munging, and workflow
+* it's easier to find people with ok to moderate skills in relatively advanced statistical modelling and inference; typically newcomers need training in the other areas, but pick it up fast
+* Even highly skilled professionals with advanced econometric and statistical skills tend to be lacking in basics such as version control, working with style guides, peer review, unit testing, continual integration
+
+### We've identified a range of keys to our success that could be used elsewhere
+
+* workplace-specific environment, data and problems
+* use of staff rather than external trainers whenever possible
+* an atmosphere of continuous learning and improvement
+* well defined, relatively short modules that constitute a roadmap of clearly progressing skills
+
+### The results have been very good
+
+* projects like MTAGDP, MRTEs and Regional Forecasts, all of which involve combining good practice statistical modelling with best practice data management, are now possible
+* things have been well received by internal and external customers and by Ministers
