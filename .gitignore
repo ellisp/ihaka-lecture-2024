@@ -1,5 +1,8 @@
+*.Rhistory
 
 *.pptx
 
 .Rproj.user/*
 .Rproj.user
+*.png
+*.html
