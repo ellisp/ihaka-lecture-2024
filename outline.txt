@@ -66,3 +66,14 @@ package R and Git up properly and get them integrated into the support desk.
 Lesson # - you need an xxxstyle R package for your organisation with palettes, ggplot2 theme, logo, fonts, etc
 Work with your corporate comms / design standards team not against it
 
+
+
+Some reflections on differences - how the levers are different in different contexts
+- MBIE / Stats NZ - lots of institutional momentum but well defined levers and decision-making authorities
+- Nous - less defined, more about enthusing, persuading, demonstrating "this will help you do the project"
+- SPC - institutionally weak, very weak corporate sector, fragmentation of work through projects, everyone has an end-date to their contract reduces organisational commitment
+
+think about: 
+an academic coming to the public sector
+a private sector person coming to the public sector
+a public sector person coming to the private sector
