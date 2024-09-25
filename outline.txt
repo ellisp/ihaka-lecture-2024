@@ -77,3 +77,6 @@ think about:
 an academic coming to the public sector
 a private sector person coming to the public sector
 a public sector person coming to the private sector
+
+remember to add the lessons from my COTS lecture - atmosphere of learning and innovation, using own data etc
+remember to add practicalities liek the need for an R package of styling for your organisation, hooks into Word and PowerPoint, standard ways to connect to internal databases so you can use that for training from straight away
